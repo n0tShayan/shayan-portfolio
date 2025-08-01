@@ -40,7 +40,7 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t border-border/30 text-center">
           <p className="text-sm text-muted-foreground flex items-center justify-center">
-            Made with <Heart className="h-4 w-4 mx-1 text-red-400 animate-pulse" /> using React & Tailwind CSS
+            Made with <Heart className="h-4 w-4 mx-1 text-red-400 animate-pulse" /> by SMAS
           </p>
           <p className="text-xs text-muted-foreground mt-2">
             © 2024 Sahibzada Muhammad Asad Shayan. All rights reserved.
